@@ -1,0 +1,1 @@
+python qa_train.py --train_file ./data/squad_train.csv --validation_file ./data/squad_validation.csv --model_name_or_path hfl/chinese-roberta-wwm-ext --output_dir ./ckpt/qa 
